@@ -1,0 +1,36 @@
+{
+    
+    "nav": {
+        "t1": "Buy",
+        "t2": "Blog",
+        "t3": "Help",
+        "t4": "Priece",
+        "t5": "Sale",
+        "t6": "Bonus",
+        "t7": "Shops",
+        "btn":"Sign In"
+       
+    },
+    "nav2":{
+        "t1":"Welcome home to luxury",
+        "t2":"Lorem Ipsum Dolorem appsetup",
+        "t3":"Latest projects",
+        "t4":"All",
+        "t5":"Building",
+        "t6":"Interior",
+        "t7":"View all projects"
+    },
+    "sec1":{
+        "t1":"Delivery of goods from the UK to Russia",
+        "t2":"Start saving up to 80% on shopping. Register with OkeyPost, to buy with discounts in UK clothes, shoes, gadgets famous brands and safely send things to Russia.",
+        "t3":"How profitable is it to buy?"
+           },
+    "sec2":{
+        "t1":"Do you have any questions?",
+        "t2":"Contact Us",
+        "t3":"Send",
+        "t5":"Useful articles",
+        "t":""
+    },
+    "text1":"About"
+}

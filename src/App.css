@@ -1,0 +1,11 @@
+.container{
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.picture{
+  background-image: url('./assets//фон.png');
+  background-repeat: no-repeat;
+  min-height: auto;
+  background-size: 100% 100%;
+}
